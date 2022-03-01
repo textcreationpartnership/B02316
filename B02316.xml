@@ -1,0 +1,506 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A conference between two souldiers meeting on the roade. The first part the one being of the army in England, the other of the army in Scotland, as the one was coming from London, the other from Edinbrough.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02316</idno>
+            <idno type="STC">Wing C5729A</idno>
+            <idno type="STC">ESTC R176594</idno>
+            <idno type="EEBO-CITATION">53981497</idno>
+            <idno type="OCLC">ocm 53981497</idno>
+            <idno type="VID">180187</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02316)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180187)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2819:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A conference between two souldiers meeting on the roade. The first part the one being of the army in England, the other of the army in Scotland, as the one was coming from London, the other from Edinbrough.</title>
+               </titleStmt>
+               <extent>[2], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: blurred and faded print with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Scotland --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180187:1" rendition="simple:additions"/>
+            <p> A CONFERENCE Between two Souldiers Meeting on the Roade, the one being of the Army in ENGLAND, The other of the Army in SCOTLAND.</p>
+            <p>As the one was comming from <hi>London,</hi> the other from <hi>Edinbrough.</hi>
+            </p>
+            <p>The firſt Part.</p>
+            <p>
+               <hi>November,</hi> 1659.</p>
+            <pb facs="tcp:180187:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:180187:2"/>
+            <head>A Conference between two Souldiers Meeting on the Roade, the one being of the Army in <hi>England,</hi> the other of the Army in <hi>Scotland.</hi>
+            </head>
+            <sp>
+               <speaker>England.</speaker>
+               <p>WEll met fellow-ſouldier, whence doe you come?</p>
+            </sp>
+            <sp>
+               <speaker>Scotland.</speaker>
+               <p>
+                  <hi>I come from</hi> Scotland.</p>
+            </sp>
+            <sp>
+               <speaker>Engl.</speaker>
+               <p>What News from thence? we heare you are begin<g ref="char:EOLhyphen"/>ning a new Warr.</p>
+            </sp>
+            <sp>
+               <speaker>Scotl.</speaker>
+               <p>
+                  <hi>No, no, what we doe is in purſuance of our good Old Cauſe, to ſtand up for the Parliament, which we heare you have forceably interrupted, and turned out.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Engl.</speaker>
+               <p>I pray you let us ſtep aſide, and a little reaſon toge<g ref="char:EOLhyphen"/>ther: What is that good Old Cauſe ſo much ſpoken of? Were you a Souldier at the firſt beginning of the warr, and can re<g ref="char:EOLhyphen"/>member what was then Declared as the cauſe of our taking up Armes?</p>
+            </sp>
+            <sp>
+               <speaker>Scotl.</speaker>
+               <p>
+                  <hi>Yes, and then I went out for the preſervation and de<g ref="char:EOLhyphen"/>fence of the true Proteſtant Religion, the Kings Perſon, the Pri<g ref="char:EOLhyphen"/>viledges of Parliament, and the Laws and Liberties of the ſubject.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Engl.</speaker>
+               <p>Let us paſſe by that of the Proteſtant Religion, which was ſoon after left out of our Commiſſions; for we needed not fight for a Religion, but that we might enjoy Liberty to exer<g ref="char:EOLhyphen"/>ciſe our Religion. How did you purſue the Cauſe? Did you, who are now the Army in <hi>Scotland,</hi> conſent to the taking away the Life of the King, whom you were to defend, who by the Laws of the Land was our Chief Ruler?</p>
+            </sp>
+            <sp>
+               <speaker>Scotl.</speaker>
+               <p>
+                  <hi>Yes; for when upon better information we found. That Kings were made for the people, and not the people for Kings: That men are freeborn into the World, and not any mans ſlaves; that no man ought to have a Native and Hereditary Right over others. But that the power under God is originally in the people, and to be derived from thence, and that all truſts are conditionall;</hi>
+                  <pb n="2" facs="tcp:180187:3"/> 
+                  <hi>We beleeved that the King was as well bound to defend his people, as his people were to be ſubject to him; and that if he fayled of the one, they were diſcharged of the other, els the King might de<g ref="char:EOLhyphen"/>ſtroy them at his pleaſure; and finding that the King had betray<g ref="char:EOLhyphen"/>ed his truſt, and endeavoured the ruine of his people; we took our ſelves not onely bound to defend our ſelves againſt him; but alſo to call him to an accompt as guilty of the higheſt crymes for de<g ref="char:EOLhyphen"/>ſtroying the end of his truſt, making his power an advantage to our ruine.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Engl.</speaker>
+               <p>Then you were of our mind, That the ſafety of the People, is the ſupreme Law; and therefore you conſented to take away the King. What did you for the Priviledges of Par<g ref="char:EOLhyphen"/>liament? Doe you not remember, That there was an Act of Parliament, to which the King conſented, as well as both Hou<g ref="char:EOLhyphen"/>ſes, That the Parliament, nor either Houſe, ſhould not be diſ<g ref="char:EOLhyphen"/>ſolved without their own conſents, or an Act of Parliament to be paſſed for that purpoſe? Did you not alſo conſent to the ta<g ref="char:EOLhyphen"/>king away of the Houſe of Lords, which was one of the Hou<g ref="char:EOLhyphen"/>ſes of Parliament?</p>
+            </sp>
+            <sp>
+               <speaker>Scotl.</speaker>
+               <p>
+                  <hi>When we found that the Houſe of Lords, as well as the King, exerciſed an Authority by Prerogative over the people, with<g ref="char:EOLhyphen"/>out their conſent and deputation; it was ſeen fit to lay them aſide alſo, as inconſiſtent with the peoples Liberties.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Engl.</speaker>
+               <p>Was not this the higheſt breach of Parliament Privi<g ref="char:EOLhyphen"/>ledges, not onely to interrupt, but wholly to diſſolve one of the Houſes of Parliament, and that not for one Seſſion onely, but for ever? And I pray you, when Kings and Lords were taken away, which were two eſſentiall parts of the Parliament; was not the Parliament then diſſolved, he being dead by whoſe Writs they were called, which gave them the being of a Par<g ref="char:EOLhyphen"/>liament, and could live no longer then himſelfe?</p>
+            </sp>
+            <sp>
+               <speaker>Scotl.</speaker>
+               <p>
+                  <hi>No, for the Houſe of Commons could not be diſſolved, without their own conſent, and an Act to be paſſed for that purpoſe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Engl.</speaker>
+               <p>How could they be a Parliament, which could doe no Act of a Parliament? Or how could they be diſſolved by an Act, when no act of Parliament could be paſſed for it? they had taken away the Lords, who were to adviſe, and the King who was to conſent.</p>
+            </sp>
+            <sp>
+               <pb n="3" facs="tcp:180187:3"/>
+               <speaker>Scotl.</speaker>
+               <p>
+                  <hi>Its very true, and therefore they preſently changed the Government, and Declared themſelves to be a Parliament, with<g ref="char:EOLhyphen"/>out King, or Houſe of Lords.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Engl,</speaker>
+               <p>Did they not thereby diſſolve themſelves, and caſt off their former power? And then, from whom did they derive their new Authority? the People onely choſe them to goe up, and to conſider and adviſe of the great things of the Nation with the King and Lords, and not to take all the power to themſelves, both the Legiſlative and Executive, to doe what they liſt, and as long as they pleaſed, making the former Act of Parliament (which had no ſuch intention) a colour for it. But ſince you are ſo much for the Houſe of Commons; whether, I pray, did you conſent to the turning out ſo many Members at ſeverall times?</p>
+            </sp>
+            <sp>
+               <speaker>Scotl.</speaker>
+               <p>
+                  <hi>Yes for we found that the honeſt party of the Houſe, who were for carrying on the good Old Cauſe; were over-voted by a Major Party, and we were forced to it, or els our Cauſe had been loſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Engl.</speaker>
+               <p>And were not thoſe moſt high breaches of the Privi<g ref="char:EOLhyphen"/>ledges of that Houſe? And how could the remaining party be called, a free Parliament? The People choſe the whole Num<g ref="char:EOLhyphen"/>ber, and gave them power; and after you had turned out whom you pleaſed, ſhould the People be bound by the reſt? were they the Peoples, or not rather your Parliament? But doe ye remem<g ref="char:EOLhyphen"/>ber, when thoſe we called the honeſt Party, came from the Houſe to the Army, and brought their Speaker with them, and left the reſt who over-voted them? Did not you own the leſ<g ref="char:EOLhyphen"/>ſer Party, and forthwith goe to <hi>London,</hi> and turn out the other? I pray, by what Law was it done? and whether, if either par<g ref="char:EOLhyphen"/>ty could be called a Parliament, the leſſer, or the greater? And whether did you not in 1653. conſent to, or afterward; approve the turning out the remainder of the whole Houſe?</p>
+            </sp>
+            <sp>
+               <speaker>Scotl.</speaker>
+               <p>
+                  <hi>I muſt confeſſe we did ſo, and were ſtill forced to it, for carrying on that Cauſe which we were called unto; and tooke our ſelves bound in Conſcience to proſecute, for the defence of the Peoples Liberties.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Engl.</speaker>
+               <p>Well, It ſeems you grant, that for the Liberty of the
+<pb n="4" facs="tcp:180187:4"/> People, you conſented, in ſtead of defending, to deſtroy the Kings Perſon; in ſtead of preſerving Parliament Priviledges, wholly to take away the Houſe of Lords; and over and over, to interrupt and turn out the Members of the lower Houſe; and at laſt to end the ſitting of the whole. And I pray you, Have not divers Elections been ſince made by the People, which (by an Act made by the King, Lords, and Commons, they had power to doe) make voyd, and ſupercede all former Authori<g ref="char:EOLhyphen"/>ty derived from them, if any was in being,</p>
+            </sp>
+            <sp>
+               <speaker>Scotl.</speaker>
+               <p>
+                  <hi>I am not fit to judge of theſe things: But I conceive they were a Parliament at leſt, till</hi> 1653. <hi>or a new Election: But I dare not conſent that they were diſſolved any ſooner, for many dangerous conſequences would follow, and all Laws ſince made, might be rendered invalid, to the leſſe of the whole Nation, and many particular Perſons.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Engl.</speaker>
+               <p>They did not in this laſt Convention, ſo well conſi<g ref="char:EOLhyphen"/>der, who at one breath, as I may ſay, by an <hi>Act</hi> thrice Read and Paſſed in one day, made voyd whatſoever had been done from 1653, to 1659. without conſidering the weight and concernment thereof, to the manifold dammage, not onely of thouſands of particular Perſons, but to the hazard of the Peace of the three Nations, rendering the union of <hi>Scotland</hi> and this Nation invalid, and opening a way for the <hi>Iriſh</hi> to return upon the <hi>Engliſh,</hi> and turn them out of their Habitations in <hi>Ireland,</hi> and thouſands of other miſchiefs, which was one great reaſon, neceſſitating the Army to put an end to their ſitting. But ſhould I tell you, that they were diſſolved in 1648. it would neither reproach them, nor diminiſh that power which they exerciſed in carrying on the work with us, nor injure the Rights of the people: And ſhould I alſo ſay, that all things done ſince the end of their former ſitting in 1653. that are purſuant to the ends of our Cauſe, are by as good Authority; there will be no contradiction to thoſe Principles, which ye have walked by, and muſt own as well as we as the warrant of our proceedings, which will juſtifie us in the ſight of God, and in our own Conſciences, and in due time unto men,</p>
+            </sp>
+            <sp>
+               <speaker>Scotl.</speaker>
+               <p>
+                  <hi>I confeſſe it was raſhly done to paſſe ſuch an Act:</hi>
+                  <pb n="5" facs="tcp:180187:4"/> 
+                  <hi>But I pray goe on, and tell me what other ground, or neceſſity you had to diſſolve them new, for that is the great thing which diſſa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>isfieth us, and which we cannot beare.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Engl.</speaker>
+               <p>Though it might ſeem a ſtrange thing to you, yet we cannot but wonder, that you who had joyned formerly in the like Acts of neceſſity with us; nay, we may ſay, in much higher; and knew the integrity of many thouſands of your fellow-ſouldiers in <hi>England,</hi> and their deſires after Juſtice, Righteouſneſſe, and true Freedom, ſhould ſo haſtily Publiſh a <hi>Declaration,</hi> and not rather firſt ſend ſome honeſt and under<g ref="char:EOLhyphen"/>ſtanding men to us, to be informed of the Grounds and Rea<g ref="char:EOLhyphen"/>ſons of our Proceedings, and ſhould ſtill perſiſt and purſue your <hi>Declaration,</hi> to the hazard of the Peace, and raiſing a new War in theſe Nations, which may make way for a third Party to divide the ſpoyle, and loſe the Fruit of all our Tra<g ref="char:EOLhyphen"/>vells. But to ſatisfie you further of our Grounds; We that were upon the place, and neer them, found by dayly experi<g ref="char:EOLhyphen"/>ence, a heady Faction growing in the Houſe, who having a deſigne to engroſſe all power into their own hands, to make themſelves abſolute; &amp; not onely to give what Laws they would to the people; but to ſettle what Government they liſt, and to perpetuate themſelves during their pleaſure, (who were but a very few of thoſe that are intereſſed in the management and ſucceſſe of the ſame Cauſe, and ought to ſhare with them, and be as well ſatisfied in the ſettlement to be made;) Firſt, con<g ref="char:EOLhyphen"/>trived to bring the Army to their will, by cauſing them to take Commiſſions from their Speaker; and then (by rayſing another Force) made way to ſupplant them; that ſo, as any perſon ſhould in the leaſt croſſe their deſigne, or ſhew a diſ<g ref="char:EOLhyphen"/>like to any thing they did, they might, with a Vote of the Houſe be layd aſide, upon the leaſt Information of any Mem<g ref="char:EOLhyphen"/>ber, without Hearing or Tryall, though the matter was falſe; which having carryed on, they preſently began to ſhew their further purpoſe: reproved and gave a cheeque to the ſober and modeſt Petitions of the Army; a Priviledge, that the meaneſt, and feweſt of the people clayme. And without proofe, or hearing, pickes nine or ten of the Chief Aſſertors
+<pb n="6" facs="tcp:180187:5"/> of our Liberties out of the Army, and layes them aſide, and intended further to have proceeded with more, as is too evi<g ref="char:EOLhyphen"/>dent. All which more fully appears by the <hi>Armies Plea,</hi> and <hi>Declaration;</hi> to which I refer you.</p>
+            </sp>
+            <sp>
+               <speaker>Scotl.</speaker>
+               <p>
+                  <hi>But I pray you. How can it be lawfull for the ſervant to riſe up againſt his Maſter? Did not you lately reſtore them to the power, and acknowledge them, and take Commiſſions at their Barr, and receive their Pay?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Engl.</speaker>
+               <p>That they were Maſters, and we their ſervants, does not appear by our reſtoring them to the power, but rather the contrary; and that we might as well take it from them, as give it to them, when they abuſed it. And as for our owning them to be a Power and receiving Commiſſions and Pay from them; they had borne part with us in the heat of the day, had coun<g ref="char:EOLhyphen"/>celled, adviſed, and acted with us, as intereſſed in the ſame Cauſe; and we were willing, as they were the remaining per<g ref="char:EOLhyphen"/>ſons that held out to the end of that <hi>Civill Authority</hi> which God had bleſſed with us in carrying on the work, to take them along with us; and as being a more popular way, then any ſingle perſon and more ſutable, then meerly the Power of the Sword, and that which would give better content to the peo<g ref="char:EOLhyphen"/>ple, till ſuch an equall and juſt frame of Government could be ſetled, as might fully anſwer the ends of our Warr, and ſo great an expence of Blood and Treaſure. Yet give us leave to tell you, We were no more ſervants then they; we recei<g ref="char:EOLhyphen"/>ved Pay, as being allowed to us, that went a warfare for the people. They alſo had Pay, provided by Law proportionable to their Expences. Are the Souldiers ſervants to their Officers, becauſe from their hands they receive their Pay? Are the Offi<g ref="char:EOLhyphen"/>cers ſervants to the Parliament, becauſe they are payd by their Order, not out of their own, but the peoples purſes? And are not the Members of Parliament as well ſervants to the peo<g ref="char:EOLhyphen"/>ple, who have allowances provided for them? Yea rather, are not both the Parliament and Army ſervants to the People, to preſerve and defend them, and their juſt Rights and Free<g ref="char:EOLhyphen"/>doms? If therefore both Parliament and Army, ſhall joyn to deſtroy the people; May they not both with-hold their
+<pb n="7" facs="tcp:180187:5"/> Pay, and defend themſelves againſt them, if they can? and the like againſt either.</p>
+            </sp>
+            <sp>
+               <speaker>Scotl.</speaker>
+               <p>
+                  <hi>I doe not well underſtand this, for the Parliament is the Body of the People; and they Called, and Commiſſionated the Army, and payd them; and therefore the Army are ſer<g ref="char:EOLhyphen"/>vants to the Parliament.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Engl.</speaker>
+               <p>That the Parliament was the Body of the people, we deny not; and when it came to paſſe that a difference fell be<g ref="char:EOLhyphen"/>tween the King and them; they called to the people, (in effect thus;) <hi>We are your Truſtees, your Deputies, you ſent us <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> hither to preſerve and maintain your Rights; the King hath highly violated many of them, and ſtill perſiſteth, and by force will compell us to yeild to him. Therefore come and aſſiſt us, and ſtand up for your ſelves in your lawfull defence, and for your liberties.</hi> The people chearfully to proſecute thoſe ends, came, and took up the Sword, managed the War, with the advice of their Repreſentative Body, not as ſervants to the Parliament; but as thoſe that entruſted them, that were bound to defend them, while they purſued the ends of their preſer<g ref="char:EOLhyphen"/>vation and ſafety: Not as Servants, or Mercenary men, for Wages, (for the Parliament neither had it, nor did give it, but out of the peoples purſes;) but as Free-men of <hi>England,</hi> for their own liberties, unto whom God hath given the Victo<g ref="char:EOLhyphen"/>ry; who now ſtand not bound in Duty and Conſcience to any aſſembly of men, no more then formerly to the King, to be commanded to doe their wills: But as Members of the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Nation, to purſue the juſt ends of their undertaking, for recovery and preſervation of their liberties, as well againſt any Parliament that ſhall violate their Rights, as againſt King and Lords, and no more to yeild themſelves ſlaves to any new Power or Government, then they did to the old.</p>
+            </sp>
+            <sp>
+               <speaker>Scotl.</speaker>
+               <p>
+                  <hi>I am not willing to ſay any thing againſt former pro<g ref="char:EOLhyphen"/>ceedings, becauſe we had our hands therein, as well as you; but this, both you and we may pleade for our ſelves, neceſſity forced us to it: But we cannot ſee any neceſſity for this raſh undertaking.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Engl.</speaker>
+               <p>Doe you not remember how often the <hi>Army</hi> hath
+<pb n="8" facs="tcp:180187:6"/> Promiſed, Covenanted, Remonſtrated, and Ingaged, yea, over and over again, to endeavour a through Reformation, and ſuch a ſetled proviſion and ſecurity for preſervation of the Rights and Liberties of the people, as Men, and as Chriſti<g ref="char:EOLhyphen"/>ans, as ſhould not be liable to future violation? If they ſhould fayle of this, were they not moſt perfidious unto God, and treacherous to the people? And when they found the Par<g ref="char:EOLhyphen"/>liament neglecting their duty; and on the contrary, begin<g ref="char:EOLhyphen"/>ning to lay aſide the chiefeſt worthies of the <hi>Army,</hi> who had hearts moſt enlarged, and integrity moſt unſpotted, and were every way beſt fitted, not onely for the conduct of the <hi>Army,</hi> but for carrying on the good ends of the Warr; ſhould the Souldier fit ſtill, and hold their peace, and ſuffer ſuch to be ſet over them, of whom they had little, or no experience, whoſe Principles were known inconſiſtent with Chriſtian Freedom, whoſe intereſt or abilities, were not able to withſtand the common Enemy; but on the contrary, gave them new en<g ref="char:EOLhyphen"/>couragement, and freſh hopes.</p>
+            </sp>
+            <sp>
+               <speaker>Scotl.</speaker>
+               <p>
+                  <hi>We cannot eaſily beleeve theſe things, that the Par<g ref="char:EOLhyphen"/>liament could have any ſuch deſignes, for they have ſtill car<g ref="char:EOLhyphen"/>ryed on the Work with us.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Engl.</speaker>
+               <p>Doe you not remember, after the King was delivered into our hands, what tampering was made, what endeavours uſed for patching up a peace with him, and how long was it, and with what difficulty obtained, to have Votes paſſed for no more Addreſſes? Was not the <hi>Army</hi> forced to Petition from all places and quarters, to have Him and other Delin<g ref="char:EOLhyphen"/>quents brought to Juſtice? (when they found by his ſecluſion from all evill Councellors (on whom, till then, they were ſtill deſirous to lay the blame) that he was chiefly guilty.) And afterwards how did they ſtill neglect to purſue their duty, the good ends of the Warr<g ref="char:punc">▪</g> but as they were even conſtrained to it? How often were we forced to accuſe, and impeach, and turn out their malignant tempers, purge them over and over, and at laſt turn out the whole? I pray you look back, and tell us, what good <hi>Act</hi> did they, to which they were not forced? How often has the <hi>Army,</hi> and other good people, Petitioned
+<pb n="9" facs="tcp:180187:6"/> them? and how often we<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> they by them checked, in ſtead of thanked? Doe but conſider how long time they had, between 1648. that they changed the Government, and 1653. that they were diſſolved, and how few <hi>Acts</hi> they made, that are purſuant to the change of Government, and of continuing good to the people? Which of our burthens are eaſed? which of our grievances redreſſed? does not the whole Land groan under heavy preſſures, which in a ſmall part of that time, might have been eaſed?</p>
+            </sp>
+            <sp>
+               <speaker>Scotl.</speaker>
+               <p>
+                  <hi>We are of the ſame mind with you, that they were bad enough in time paſt; But, we hope, that juſt rebuke and ſhame which they have ſo long layn under, has made them ſenſible of former miſcarriages, and that they would now double their di<g ref="char:EOLhyphen"/>ligence, and improve their time to the beſt advantage.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Engl.</speaker>
+               <p>Our hope of that, was a great inducement to us, to call them together: But we ſoon found our miſtake; for within a very few weeks, they began to fall into ſidings, and parties, and the worſer got the upper hand. Their time for neer ſix Moneths, they paſſed away, almoſt wholly in ſetling the Power of the Nation, both Military and Civill, in ſuch hands, as they conceived would be true to them, and their ab<g ref="char:EOLhyphen"/>ſolute authority, with ſuch artifice, that not any man might ſpeak a word in diſlike of their proceedings, but they could turn him out with a word; ſo that, what they had a mind to doe, the people might take; and what they diſliked, neither the Army nor any others might offer nor aske.</p>
+            </sp>
+            <sp>
+               <speaker>Scotl.</speaker>
+               <p>
+                  <hi>We conceive, that the Military Power, ought to be ſubject to the Civill, and this was but to bring the Sword into the peoples own hands.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Engl.</speaker>
+               <p>We know not why the Civill power ought to be called the peoples hands, more then the Military; we know where the people have found their greateſt ſtrength; and we hope the Army is as much Civill, as the Magiſtrate: and we confeſſe, the ends of our war being anſwered, and ſecured; both Swords belong to the people. But had the Body of the People of <hi>England</hi> the Sword in their own hands; you, as well
+<pb n="10" facs="tcp:180187:7"/> as we, know how ſoon they would deſtroy both you, and us, and themſelves. And for this Aſſembly, neither to ſettle a Government, with ſufficient caution and ſecurity for the en<g ref="char:EOLhyphen"/>joyment of our Liberties, our dear bought purchaſe, nor to Declare at what they aymed in order thereunto; but raſhly to ſubject all honeſt men, and honeſt intereſt of the Nation, to the wiſedom, will, and pleaſure of that Houſe, and thoſe that ſhould ſucceed them; argues either a very bad deſigne, or groſs inadvertency, not to be readily ſuff<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>red; and had we yeilded to that prevayling party, we may well ſuppoſe the honeſt in<g ref="char:EOLhyphen"/>tereſt of the Nation had been layd very low in a ſhort time.</p>
+            </sp>
+            <sp>
+               <speaker>Scotl.</speaker>
+               <p>
+                  <hi>But we heare, the chiefe difference began about Ge<g ref="char:EOLhyphen"/>nerall Officers; and we are of the ſame mind with the Parlia<g ref="char:EOLhyphen"/>ment, that there are enough Generall Officers; for we have found how dangerous it is to have men in ſuch great power, they may make themſelves Kings or Protectors, or what they pleaſe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Engl.</speaker>
+               <p>If the Parliament was againſt Generall Officers, why did they in one day make ſeven; the <hi>Army</hi> deſired but three or foure, to render their Conduct more intire and regular, and with ſuch ſubordinations as became the ſeverall Truſts; ha<g ref="char:EOLhyphen"/>ving found by dear bought experience, That there is no ſafe<g ref="char:EOLhyphen"/>ty, but in order and diſcipline: And they were ſuch perſons, as the <hi>Army</hi> knew, and had tryed, and durſt follow in the greateſt hazards, ſuch as the Parliament themſelves, as beſt de<g ref="char:EOLhyphen"/>ſerving, enployed in the higheſt Truſts with the Army; and of whoſe fidelity, they had been ſufficiently aſſured. And you had no reaſon to be offended at it, for your Generall was one, ſo great eſteem had the <hi>Army</hi> of him. But we may well ſuppoſe. That had the <hi>Army</hi> pitched on ſome perſons of the Parliament, they had not been blamed for asking Generall Officers; which clearly appears by thoſe mens carriage, who while they oppoſe the <hi>Army,</hi> carry on their own deſigne, to get themſelves na<g ref="char:EOLhyphen"/>med, and then with greedineſs accept it. But I pray, why does your Generall, and Chief Officers blame us, as having a deſigne to bring the <hi>Armies of Scotland and Ireland,</hi> in ſub<g ref="char:EOLhyphen"/>jection to the <hi>Army of England:</hi> and that to nine or ten Per<g ref="char:EOLhyphen"/>ſons,
+<pb n="11" facs="tcp:180187:7"/> and it may be thoſe to a ſingle One? May we not much rather ſuſpect, that the Parliament, who puts the whole truſt of the <hi>Armyes</hi> of the three Nations into ſeven hands, which are leſſe then nine or ten, had a more dangerous purpoſe? Your Generall in <hi>Scotland</hi> they name for one; Lieutenant Generall <hi>Ludlowe</hi> (who was to be in <hi>Ireland)</hi> for another; Colonell <hi>Overton,</hi> who was to be at <hi>Hull,</hi> for a third: Then three of the remaining party, which they had prepared, all of one mind, might doe with Generall <hi>Fleetwood,</hi> what they plea<g ref="char:EOLhyphen"/>ſed, and how ſoon one of thoſe three might out-wit, or over<g ref="char:EOLhyphen"/>perſwade, if not over-power the other two, let any man judge; and whether the Parliaments way, or <hi>Armies</hi> deſire, was more like to ſet up a ſingle Perſon? And thus were the <hi>Armies</hi> of the three Nations, which hitherto have been wiſely managed by the Generall, with the advice of his <hi>Councill of Officers,</hi> brought to the will of three perſons, (and thoſe ſuch, as the <hi>Army</hi> ſeldom knew in the Feild, and of whoſe Spirits and Principles, they knew much, and heard more) either to carry on their deſignes, or to be turned out at their pleaſure.</p>
+            </sp>
+            <sp>
+               <speaker>Scotl.</speaker>
+               <p>
+                  <hi>I confeſſe now you ſay very much, and I begin to be ſenſible of a greater danger then I could before imagine.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Engl.</speaker>
+               <p>Nay, my Fellow-ſouldier, this is not all; But to pur<g ref="char:EOLhyphen"/>ſu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their deſigne further, they haſtily paſſe an <hi>Act.</hi> That it ſhould be Treaſon for any Man, to Receive or Pay any Monies wha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſoever, for Publique uſe, without conſent of the People in Parliament. If they continue to ſit, It appears they Reſol<g ref="char:EOLhyphen"/>ved, not to give the <hi>Army</hi> a Farthing, till they became ſub<g ref="char:EOLhyphen"/>ject to their wills, and quit their Intereſt in rhe Good Cauſe we have bin ingaged in; but rather to provoke, and encourage the People, to riſe up againſt them. What ſad and dangerous conſequences might have followed, we may well conceive; but we dare hardly ſuffer to enter into our though<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s; God of his mercy (to the poor People of <hi>England,</hi> and to reſcue their almoſt loſt Liberties) hath we hope, prevented them.</p>
+            </sp>
+            <sp>
+               <speaker>Scotl.</speaker>
+               <p>
+                  <hi>But ſurely the Parliament intended onely to bring the power of the Army into the peoples hands, and there to leave it;</hi>
+                  <pb n="12" facs="tcp:180187:8"/> 
+                  <hi>for it could not be out of any ſelfe deſigue; they paſſed a Vote not to ſit longer then</hi> May <hi>next.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Engl.</speaker>
+               <p>Alas, I have you already, to put the Sword into the peoples hands, that is, the Body of the Common people, is at once to make voyd all that ever we have been do<g ref="char:EOLhyphen"/>ing: That the Sword (while it is in the Armyes hand) is in the peoples, that is, the good peoples hand, and for them whom God hath given the Victory and Power unto, we doe plainly Declare: and that we are in their ſteads, being in Number as many as at preſent needs, the reſt of our Bre<g ref="char:EOLhyphen"/>thren are in other ſervices, and in their Callings, and we are one in intereſt with them, as alſo for the good of all, yea, even our Enemies, that in the end of all our Travells, Peace, and Righteouſneſſe, and Juſtice, might abound to every one. And as to what you ſay, <hi>That they paſſed a Vote to ſit no longer then</hi> May <hi>next:</hi> Doe not you know how eaſie a thing it is, one Day to Vote, and the next to un<g ref="char:EOLhyphen"/>vote? What preparation did they make then to end their ſitting? <hi>Was not their great and main Worke to ſettle the Government?</hi> I pray what progreſſe did they make in that? Had not they ſpent halfe their time, meerly to ſecure them<g ref="char:EOLhyphen"/>ſelves, and get all power into their own hands, and ſcarce took notice of the Government? And if you ſay, <hi>That they had yet time enough for that, five or ſix Moneths before them:</hi> it ſeems ſtrange that in five Moneths they can now doe that, which they could not in five Years before. But to ſettle the Government is not all, the whole Nation is to be brought into complyance with it, and all things to be regulated accordingly; and if they could have ſetled the Government in the firſt Moneth, we conceive there had been work enough for them to have done the whole Year after in purſuant thereof, and ſo thoſe will find, that come to undertake it. But that they intended to ſpin out the time, and put a neceſſity upon all, to have them ſit longer, further appears, in that they kept the whole Nations of <hi>Scotland</hi> and <hi>Ireland,</hi> without any Civill Judicature, and all
+<pb n="13" facs="tcp:180187:8"/> 
+                  <hi>Offices,</hi> both Civill and Military in this Nation, almoſt in their own hands, giving onely very ſhort times both to the Lieutenant Generall of the Army, and alſo to the Judges, that ſo all things might either dye with themſelves, and leave the three Nations in confuſion; or all men might conſent of neceſſity, that they might continue. None were fit for any thing, but themſelves; no others worthy to be truſted: How many worthy men ſtood ready and willing to contribute their aſſiſtance, which might have enabled the Houſe to have done more in a Moneth, then themſelves a<g ref="char:EOLhyphen"/>lone, by a Parliamentary way, could doe in ſix? What de<g ref="char:EOLhyphen"/>ſires were made, that it might be heard, what honeſt Men had to offer concerning a Government, the great concern of the Nation, and all People therein; and that a Commit<g ref="char:EOLhyphen"/>tee for that purpoſe might be appointed, that ſo we might have the advantage of the choyceſt Lights in the Nation: But, as if they would make, that all Wiſedom, as well as Power, was confined within the Walls of that Houſe, they would keep all to themſelves. And if they intended (as you ſay) to ſit no longer then <hi>May</hi> next, ſo much greater is their blame; to ſubject all to their Succeſſors, of whoſe regular Election, (notwithſtanding all the limitations and qualifications they could provide) we could not be aſſured, nor of their adhearence afterwards, to the Good Cauſe of theſe Nations.</p>
+            </sp>
+            <sp>
+               <speaker>Scotl.</speaker>
+               <p>
+                  <hi>But alas, now you have diſſolved all that had any face of Civill Authority in the Nation; Nothing remaines, but the Sword to Rule and Governe, which is a thing we hate as much as the people can doe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Engl.</speaker>
+               <p>That which we have diſſolved, its true, had the Face, but was no more the Civill Authority of the Nation, then the Sword; for by vertue of that have they Ruled: That there was not both a good Government, and Civill Authority ſetled, was onely their own fault; and their neg<g ref="char:EOLhyphen"/>lect, was the cauſe of their firſt interruption, and our late Innovations, m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n finding in ſo many Years, ſo little Fruit
+<pb n="14" facs="tcp:180187:9"/> from a Parliament, which made even the name of a Par<g ref="char:EOLhyphen"/>liament loathſome to all Men. But it ſeems, while they can Rule with the Sword, its well enough, and a good Ci<g ref="char:EOLhyphen"/>vill Authority: But when the Sword cannot fulfill their wills; then all muſt be Rebels and Traytors: And all that now they went about (or chiefly) was to get the Sword in<g ref="char:EOLhyphen"/>to their own hands; but what they would have done after, few know; onely we may gueſſe by their former carry<g ref="char:EOLhyphen"/>age.</p>
+            </sp>
+            <sp>
+               <speaker>Scotl.</speaker>
+               <p>
+                  <hi>But I pray, what doe you intend further? I hope you doe not purpoſe alwayes to keep up the Sword. When ſhall we have a Par<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iament, for that onely will ſatisfie us, and the people?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Engl.</speaker>
+               <p>To Governe by the Sword, is not more hatefull to any, then our ſelves; and had the late Aſſembly gone about the Framing and ſetling ſuch a Government as might have anſwered the ends of our late warrs and troubles, they had taken a wiſer courſe to have engaged both Army and People to them. And as for the Calling of a Parliament; ſo ſoon as a Forme of Government is agreed, upon ſuch Principles and Fundamentall Conſtitutions, as may fully ſe<g ref="char:EOLhyphen"/>cure our dear bought Liberties; you will heare, that the Calling of a Parliament will be the firſt work.</p>
+            </sp>
+            <sp>
+               <speaker>Scotl.</speaker>
+               <p>
+                  <hi>How! when a Forme of Government is agreed on; I pray who muſt agree in that? Can any doe it but a Parli<g ref="char:EOLhyphen"/>ament?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Engl.</speaker>
+               <p>In <hi>England</hi> heretofore, Parliaments never had it in their power to meddle with, or diſpute the Forme of our Government, that was never in queſtion before them; Kings were alwayes granted to be our Chief Rulers; and there<g ref="char:EOLhyphen"/>fore here is the Ground of your miſtake: The difference betwixt King and Parliament, was not about the Govern<g ref="char:EOLhyphen"/>ment; but the Laws by which we were to be Governed; which after a Government ſetled, will be left to Parliaments, as before.</p>
+            </sp>
+            <sp>
+               <speaker>Scotl.</speaker>
+               <p>
+                  <hi>Who then muſt appoint a Government?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="15" facs="tcp:180187:9"/>
+               <speaker>Engl.</speaker>
+               <p>You muſt conſider, That our warr hath not been betwixt the people of a whole Nation (wherein all were of one mind) and a Forreigner; but a Civill Warr amongſt our ſelves, one party againſt another, and a third party looking on. And finding in the purſuite of that juſt Cauſe of Liberty which was begun, That the very Forme of Go<g ref="char:EOLhyphen"/>vernment was as well burthenſome, as the Ruling Perſon and his Prerogative; we ſaw it neceſſary, to lay aſide both together; which though it begat us new Enemies, and was oppoſed by many; yet, God was pleaſed to proſper, and give us the Conqueſt over them. And now, (to tell you the truth, in plain termes) we conceive, that in deciding this Controverſie, God hath not onely given power to thoſe that were inſtruments in carrying on his work amongſt us, to ſecure their own Liberties; but alſo to ſee ſuch a new Forme of Government ſetled, as will fully eſtabliſh the Rights of all other men, and deliver them from that bon<g ref="char:EOLhyphen"/>dage under which they have long layne, both as to the in<g ref="char:EOLhyphen"/>ner and outward man; from which God hath now reſcu<g ref="char:EOLhyphen"/>ed them with a ſtrong hand, as he did our Fathers of old from <hi>Egyptian</hi> ſlavery. And we conceive it is not onely the right, but the duty of all thoſe whom God hath kept ſtedfaſt, to carry on this work; not onely to ſee a Forme of Government ſetled in roome of that which is caſt down; But ſuch a Forme as will in the Principles and Fundamen<g ref="char:EOLhyphen"/>tall Conſtitutions thereof, fully ſettle and ſecure our Liber<g ref="char:EOLhyphen"/>ties, as Men and Chriſtians, the ſumme of that good Cauſe in which we have been ſo long engaged. And that they ought not to give up the power which God hath given un<g ref="char:EOLhyphen"/>to them, unto the common newtrall and diſaffected ſpirit of the Nation, to Judge of, and determine what hath been the quarrell, and what ſhall ſatisfie and be the price of ſo much Blood and Treaſure; which is the onely cauſe, why we diſlike a Free Parliament, that is, a Parliament choſen by the body of the people, Newters and Enemies, as well as Friends,</p>
+            </sp>
+            <sp>
+               <pb n="16" facs="tcp:180187:10"/>
+               <speaker>Scotl.</speaker>
+               <p>
+                  <hi>Truely we feare a Free Parliament, that is, a Par<g ref="char:EOLhyphen"/>liament choſen by the whole Body of the People, as well as you; and herein we are in a ſtraite, We are ſatisfied, That a Parliament is the beſt Government; and yet a Free Parlia<g ref="char:EOLhyphen"/>ment will deſtroy us, and that chiefly makes us call for the old Parliament, which of neceſſity, even for ſelfe ſecurity, we con<g ref="char:EOLhyphen"/>ceived would adhere to our Cauſe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Engl.</speaker>
+               <p>As to the old Parliament, I have ſaid enough; and if you will have more, I pray what Juriſdiction had they over <hi>Ireland</hi> and <hi>Scotland,</hi> thoſe by whom they were not choſen, was it by the peoples conſent, or our Conqueſt? I hint this, to ſhew you how much they have walked by our Principles, which they would now condemne; and have they not ſtill owned us in all things we did, till 1653. and juſtifie us in turning out all others, till it came to their own turne, that did as juſtly deſerve it. And as for Par<g ref="char:EOLhyphen"/>liaments, <hi>viz.</hi> Repreſentatives, Truſtees, or Deputies of the Peace, we are cleare with you, That all power being in the people, their Delegated power ought to be Supreme; yet, conſider their Truſt, is ſtill conditionall, and therefore liable to the ſame queſtion, and puniſhment, as Kings, or others: and we are as much for Parliaments, as you can be after a Government ſetled. And ſeeing our former Govern<g ref="char:EOLhyphen"/>ment is diſſolved. (I meane Monarchy,) we look upon the good people of <hi>England,</hi> as ſtanding with the Sword in their hands (which is their higheſt State of Soveraignty, inclu<g ref="char:EOLhyphen"/>ding in it all lower Magiſteriall Offices) not ſubjected to the Rules of any Forme of Civill Government; but what themſelves (orderly Aſſembled for that purpoſe) ſhall think fit to make: which being once agreed, and ſetled; We doe Profeſſe and Declare our free and ready ſubjection there<g ref="char:EOLhyphen"/>unto; and either to returne to our particular Vocations (if there can be found ſufficient intrinſecall ſtrength and vigour in any ſuch frame of ſettlement, (our condition conſidered) as to ſupport it ſelfe againſt viſible oppoſition) <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to be ſervants to the people to ſecure the ſame againſt all viol<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tors whatſoever.</p>
+            </sp>
+            <sp>
+               <pb n="17" facs="tcp:180187:10"/>
+               <speaker>Scotl.</speaker>
+               <p>
+                  <hi>But what? Can you ſet limits to a Parliament? how can you reſtraine their abſolute power? that will take away their Freedom, and Priviledge.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Engl.</speaker>
+               <p>After many ſharpe conteſts between our Ance<g ref="char:EOLhyphen"/>ſtors, and the Kings of <hi>England;</hi> our Anceſtors at laſt got a Grant of their Liberties, which were ſetled in a Char<g ref="char:EOLhyphen"/>ter, as Fundamentall Conſtitutions, not to be altered; and all Laws afterwards to be made contrary or repugnant thereunto, were to be voyd, which was yearly to be Read in Publique Courts of Judicature, and a ſolemne Curſe to be pronounced againſt thoſe that broke it, which was of force till the late Change of Government, and yet was never taken as an abridgement of Parliamentary Power, or reſtraint of their Liberties; but was rather eſteemed the great Bulwarks of the peoples Freedomes, which neither Kings nor Parliaments could alter. And therefore, (upon this new Conqueſt over Monarchy) we beleeve, it is the duty of thoſe to whom God hath given the Victory, to ſee ſuch Fundamentall Conſtitutions ſetled, as are conſo<g ref="char:EOLhyphen"/>nant to the Law of God, and Principles of Juſtice and Righteouſneſſe, and that juſt Freedom, both as to the in<g ref="char:EOLhyphen"/>ward and outward man, which belongs to every man, as a Member of the Creation of God, (the great work that God hath been doing amongſt us, and will carry on, and bring to paſſe in the whole Earth) and to ſee the ſame ſo fortified and ſecured, with proviſion againſt all kinds of vi<g ref="char:EOLhyphen"/>olation, that the people may be no more put to make a new purchaſe of it.</p>
+            </sp>
+            <sp>
+               <speaker>Scotl.</speaker>
+               <p>
+                  <hi>Though you ſhould come to a ſettlement that may have much good in it, I cannot ſee how you can ſecure it; the next Parliament will clayme an abſolute power, and will goe neer to alter it, if it be but even to ſhew their Autho<g ref="char:EOLhyphen"/>rity.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Engl.</speaker>
+               <p>If ſuch a ſpirit ſhall be in the Parliament, as to alter good things ſetled: How much further off would they be to lay ſuch a Foundation? and therefore ſuch expedi<g ref="char:EOLhyphen"/>ents
+<pb n="18" facs="tcp:180187:11"/> muſt be uſed, as will prevent that miſchief and yet leave the Parliament Free, which muſt be provided for in the Forme of Government.</p>
+            </sp>
+            <sp>
+               <speaker>Scotl.</speaker>
+               <p>
+                  <hi>I pray what Government doe you intend to ſet up? and ſeeing you clayme the right of Forming a Government: what muſt others expect from you.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Engl.</speaker>
+               <p>We, that is to ſay, the Army onely, doe not clayme any ſuch right. But we, that is to ſay the Body of the good people, adhearents to this Cauſe in all the ſeverall Nations, who continue ſtill faithfull thereunto, (whereof we are a part, and in our Brethrens ſtead, left to defend both them, and our ſelves, in proſecution of the work, till it be fini<g ref="char:EOLhyphen"/>ſhed) doe make this clayme; not that we deſire to have the Government in our hands; not that we deſire the Sword ſhould Rule; not that we deſire to abridge any other man of his Liberty; or that he ſhould be a ſlave, much leſſe a ſubject to us. But we being called together, in defence of thoſe juſt rights in common, which belong to us, and every man in particular; and having obtained ſucceſſe to our juſt Cauſe, We cannot, we dare not, (leſt not onely the ruine of our ſelves, but alſo of our poſterities; and not onely ſo, but the whole Nations, whom God hath given it into our powers to preſerve, as well as our ſelves, ſhould be layd to our charge) part a ſunder, nor ſuffer our ſelves to be divided, till our Li<g ref="char:EOLhyphen"/>berties and the Liberties of all men, be ſecured.</p>
+            </sp>
+            <sp>
+               <speaker>Scotl.</speaker>
+               <p>
+                  <hi>But ſtill you will be Judges your ſelves.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Engl</speaker>
+               <p>Our own innocency and integrity, is that which juſtifies us in the fight of God, from whom we have our ſtrength, <hi>who hath judged for us.</hi> And it is not reaſonable, that we ſhould ſtand at the Judgement Seat of our Ene<g ref="char:EOLhyphen"/>mies, nor of thoſe who have not known our Cauſe, nor put their hands to carry it on. Had all the people of <hi>England</hi> with one conſent, taken part with us, there had been no ſuch difference, as to perſons or intereſts. But you know, the greater part of the Nation were againſt us; and if they might be Judges, you, as well as we, underſtand what would
+<pb n="19" facs="tcp:180187:11"/> be the iſſue, though in our principles, their Liberties, as well as our own will be ſecured.</p>
+            </sp>
+            <sp>
+               <speaker>Scotl.</speaker>
+               <p>
+                  <hi>I pray you tell me what thoſe Principles are.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Engl.</speaker>
+               <p>I may ſay in ſhort, all our Principles are ſummed up in one, founded upon that juſt and righteous Rule, wherein is fulfilled the whole Law and the Prophets; As you would have men doe unto you, even ſo doe ye unto them: which includes in it the perfect Freedom, of Con<g ref="char:EOLhyphen"/>ſcience, of Perſon, and of Eſtate, and which we onely waite and long to ſee eſtabliſhed.</p>
+            </sp>
+            <sp>
+               <speaker>Scotl.</speaker>
+               <p>
+                  <hi>If that be your Principle, I hope we ſhall never differ; for we doe with as much earneſtneſſe as your ſelves, long to ſee ſuch a Government, and Laws ſetled, as ſtand up<g ref="char:EOLhyphen"/>on that Foundation: And if we ſhall confeſſe, that the late Aſſembly was no Parliament, but that their authority is per<g ref="char:EOLhyphen"/>fecty determined, that you had good Reaſon and Right to end their ſitting, and ought to proceed to purſue the ends of the great cauſe of juſt Liberty. It will not at all prejudice the rights of the people; and I beleeve that generally the people would be as little ſatisfied as your ſelves, to have that Aſſem<g ref="char:EOLhyphen"/>bly rule over them. But yet theſe things ſeem ſtrange and con<g ref="char:EOLhyphen"/>trary to our ancient Laws and Government; and now we know not where, nor how to come to a ſettlement.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Engl.</speaker>
+               <p>If you look upon the Parliament, and their pro<g ref="char:EOLhyphen"/>ceedings, or on the Army, and theirs, you will find, that in our whole courſe, there was ſeldome any ſuch agree<g ref="char:EOLhyphen"/>ment, which the Rule of former Laws and Conſtitutions of Government that the actions of either could be clear<g ref="char:EOLhyphen"/>ly and fully juſtified thereby any longer then the Law of Succeſſe and Conqueſt did uphold them; and the inward warrant of Juſtice, and Righteouſneſſe did encourage them in ſuch their actings. Neither could it be otherwiſe; thoſe Laws that were made for the ſupport of our former Go<g ref="char:EOLhyphen"/>vernment, being as contrary to Principles of juſt Freedom, as the Governours or Government it ſelfe.</p>
+            </sp>
+            <sp>
+               <speaker>Scotl.</speaker>
+               <p>
+                  <hi>But I hope you will not thence inferr, that there<g ref="char:EOLhyphen"/>fore</hi>
+                  <pb n="20" facs="tcp:180187:12"/> 
+                  <hi>you may breake and make voyd all other our good Laws at your pleaſure.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Engl.</speaker>
+               <p>All Laws that are juſt and equall, will be found to ſpring from the Root of all power, the Law of God, which is the Foundation of all Laws that are juſt; and as they are conſonant thereunto, they will agree with that Principle which we own and hold forth, and deſire to be found in. And we ſhall be ſorry if any ſhall accuſe us of the violation of any ſuch Laws; we hope they cannot.</p>
+            </sp>
+            <sp>
+               <speaker>Scotl.</speaker>
+               <p>
+                  <hi>Truely for our parts many of us (we can ſay it) we would not fight in a perſonall quarrell, not for the beſt of Per<g ref="char:EOLhyphen"/>ſons, neither for Members of a Parliament, nor for the Offi<g ref="char:EOLhyphen"/>cers of the Army; but for the good Cauſe of juſtice, free<g ref="char:EOLhyphen"/>dome and Righteouſneſſe, in which we have been engaged; that onely will God bleſſe, who reſpects no mans Perſon, that worke onely will he carry on, and therein (I am convinced by your Diſcouſe,) is the power and true Authority; and all who are found ſtanding in it, will need no other warrant. And now Fellow-ſouldier. I muſt take my leave being glad of this happy Meeting, and ſhall change my purpoſe of going any fur<g ref="char:EOLhyphen"/>ther Southward; and ſhall returne immediately to my Bre<g ref="char:EOLhyphen"/>thren in</hi> Scotland, <hi>who I hope will be much ſatisfied to heare of theſe things. Onely I would faine have ſpoken a little with you about the Government you intend to ſettle. But in a few dayes, (if you will promiſe to meet me) I hope to re<g ref="char:EOLhyphen"/>turne, and have a better opportunity. Till then, I bid you Farewell.</hi>
+               </p>
+               <stage>And ſo ſhaking Hands, they parted.</stage>
+            </sp>
+         </div>
+         <trailer>The end of the firſt Part.</trailer>
+      </body>
+   </text>
+</TEI>
